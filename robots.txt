@@ -1,10 +1,5 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
 Sitemap: https://magok-song-trend.node-link.shop/sitemap.xml
+Sitemap: https://magok-song-trend.node-link.shop/sitemap-pages.xml
